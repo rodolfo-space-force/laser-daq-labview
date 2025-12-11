@@ -6,6 +6,7 @@ Controle de Laser com DAQ em LabVIEW
 Este projeto em **LabVIEW** implementa um controle digital simples para ligar e desligar um sistema de **laser** por meio de uma interface gráfica de usuário (GUI) integrada a uma placa de aquisição de dados (**DAQ Assistant**), com feedback visual em tempo real e controle de segurança por botão de parada de emergência.
 
 ![Texto alternativo da imagem](daq.jpg)
+![Texto alternativo da imagem](laser.png)
 
 ##  Funcionalidade
 
