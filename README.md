@@ -61,6 +61,15 @@ O código LabVIEW está estruturado da seguinte forma:
 - Não exponha seres vivos diretamente ao feixe.
 - Em caso de emergência, utilize o botão `STOP`.
 
+You can reach me at rmilhomem[at]gmail[dot]com or connect on [LinkedIn](https://www.linkedin.com/in/rodolfo-space-force/) for collaborations.
+
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT. Você pode usar, modificar e redistribuir este código livremente, desde que mencione o autor original.
+
+[Clique aqui para ver a licença completa.](https://opensource.org/licenses/MIT)
+
 
 
 ## 📚 Referências
