@@ -5,6 +5,8 @@ Controle de Laser com DAQ em LabVIEW
 
 Este projeto em **LabVIEW** implementa um controle digital simples para ligar e desligar um sistema de **laser** por meio de uma interface gráfica de usuário (GUI) integrada a uma placa de aquisição de dados (**DAQ Assistant**), com feedback visual em tempo real e controle de segurança por botão de parada de emergência.
 
+![Texto alternativo da imagem](daq.jpg)
+
 ##  Funcionalidade
 
 A aplicação permite:
@@ -61,6 +63,12 @@ O código LabVIEW está estruturado da seguinte forma:
 - Não exponha seres vivos diretamente ao feixe.
 - Em caso de emergência, utilize o botão `STOP`.
 
+## 📚 Referências
+
+- National Instruments. [Getting Started with DAQ in LabVIEW](https://www.ni.com/en-us/support/documentation/supplemental/06/getting-started-with-labview-and-daqmx.html)
+- NI-DAQmx Help Documentation (disponível no NI MAX)
+
+  
 You can reach me at rmilhomem[at]gmail[dot]com or connect on [LinkedIn](https://www.linkedin.com/in/rodolfo-space-force/) for collaborations.
 
 
@@ -72,7 +80,4 @@ Este projeto está licenciado sob a Licença MIT. Você pode usar, modificar e r
 
 
 
-## 📚 Referências
 
-- National Instruments. [Getting Started with DAQ in LabVIEW](https://www.ni.com/en-us/support/documentation/supplemental/06/getting-started-with-labview-and-daqmx.html)
-- NI-DAQmx Help Documentation (disponível no NI MAX)
