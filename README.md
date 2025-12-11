@@ -46,7 +46,7 @@ O código LabVIEW está estruturado da seguinte forma:
 3. **Parada Segura:**
    - Um botão `STOP` encerra o loop `While`, finalizando a execução do VI com segurança.
 
-## 💡 Pré-requisitos
+##  Pré-requisitos
 
 - **LabVIEW** (versão recomendada: 2020 ou superior)
 - **DAQ Assistant instalado**
@@ -54,7 +54,7 @@ O código LabVIEW está estruturado da seguinte forma:
 - **Driver NI-DAQmx** instalado e configurado
 - Dispositivo **laser com entrada digital** (5V ou 3.3V, conforme sua DAQ)
 
-## 🛠 Como usar
+##  Como usar
 
 1. Conecte seu dispositivo laser à saída digital configurada na sua DAQ.
 2. Abra o arquivo `.vi` no LabVIEW.
@@ -63,14 +63,14 @@ O código LabVIEW está estruturado da seguinte forma:
 5. O status textual será atualizado automaticamente.
 6. Pressione `STOP` para encerrar o programa.
 
-## ⚠ Segurança
+##  Segurança
 
 - Certifique-se de que o laser esteja **apontado para uma área segura** antes de ativar.
 - Use **óculos de proteção adequados**.
 - Não exponha seres vivos diretamente ao feixe.
 - Em caso de emergência, utilize o botão `STOP`.
 
-## 📚 Referências
+##  Referências
 
 - National Instruments. [Getting Started with DAQ in LabVIEW](https://www.ni.com/en-us/support/documentation/supplemental/06/getting-started-with-labview-and-daqmx.html)
 - NI-DAQmx Help Documentation (disponível no NI MAX)
