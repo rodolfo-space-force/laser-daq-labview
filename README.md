@@ -14,6 +14,8 @@ Este projeto foi desenvolvido em LabVIEW 2020 utilizando VI's para controle de l
 ![Texto alternativo da imagem](daq.jpg)
 ![Texto alternativo da imagem](laser.png)
 
+https://www.youtube.com/shorts/rKcL8rLTZv0
+
 ##  Funcionalidade
 
 A aplicação permite:
